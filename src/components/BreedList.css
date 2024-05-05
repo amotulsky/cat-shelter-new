@@ -1,0 +1,23 @@
+
+.breed-selector {
+    margin-top: 40px; 
+    text-align: center; 
+    background-color: #cae4db; 
+    padding-top: 20px; 
+    border-radius: 10px; 
+}
+
+.breed-selector label {
+    margin-right: 10px; 
+    font-size: 18px; 
+    color: #333;
+}
+
+#breedSelect {
+    padding: 8px; 
+    font-size: 16px; 
+    border-radius: 5px; 
+    border: 1px solid #ccc;
+    background-color: #fb6a4a; 
+    color: #ffffff; 
+}
